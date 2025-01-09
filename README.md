@@ -17,4 +17,4 @@ Este repositório foi criado para registrar o teste de aprendizado no curso de C
 * Insira a URL para clonar: https://pt-br.facebook.com
 * Neste momento, para corrigir bugs em 01/2025, utilize o comando: `sudo sed -i '/"src":/d' /root/.set/web_clone/index.html`
 
-## Resultado
+## Resultados
